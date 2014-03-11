@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+
+{
+	"$basetexture" 	"nature/milrock001"
+	"$basetexture2" "nature/milrock002"
+	"%tooltexture" 	"nature/milrock001_2_tooltexture"
+	//"$bumpmap"	"nature/milrock001_normal"
+	"$surfaceprop" 	"rock"
+
+}

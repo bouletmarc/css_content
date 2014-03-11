@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/gfx/VGUI/fav_weap/g3sg1"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

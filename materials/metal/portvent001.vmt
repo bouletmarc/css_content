@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"metal\portvent001"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$surfaceprop" "metalvent"
+
+}

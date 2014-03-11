@@ -1,0 +1,6 @@
+UnlitGeneric
+{
+	"$basetexture"	"skybox\officebk"
+	"$ignorez" "1"
+	"$nofog" 1
+}

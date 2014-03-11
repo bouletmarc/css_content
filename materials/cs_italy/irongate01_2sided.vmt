@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/irongate01"
+	"$translucent" 1
+	"%keywords" "cstrike"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+}

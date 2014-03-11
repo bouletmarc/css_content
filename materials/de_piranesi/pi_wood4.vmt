@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_wood4"
+	"$surfaceprop" "wood"
+	"$detail" "detail/dt_wood2"
+}

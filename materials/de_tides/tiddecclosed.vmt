@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_tides\tiddecclosed"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.200"
+
+}

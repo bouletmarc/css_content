@@ -1,0 +1,7 @@
+"sky"
+{
+	"$hdrbaseTexture" "skybox/sky_dust_hdrft" 
+	"$baseTexture" "skybox/sky_dustft"
+	"$nofog" 1
+	$ignorez 1
+}

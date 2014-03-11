@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/de_dust/tin_roof"
+	"$translucent" 1
+	"$surfaceprop" "metal"
+}

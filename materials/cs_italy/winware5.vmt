@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/winware5"
+	"$detail" "detail/dt_smooth1"
+	"$surfaceprop" "glass"
+}

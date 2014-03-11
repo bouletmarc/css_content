@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/{pi_bannerb"
+	"$translucent" 1
+	"$surfaceprop" "paper"
+	"$detail" "detail/dt_fabric1"
+	"$detailscale" "16"
+}

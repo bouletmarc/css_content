@@ -1,0 +1,35 @@
+"LightmappedGeneric"
+{
+	"$additive" 1
+	"$basetexture" "decals/diagram"
+	"$decal" 1
+	"$decalscale" "0.4"
+
+// "Proxies"
+// {
+//  "AnimatedTexture"
+//  {
+//    "animatedTextureVar" "$basetexture"
+//    "animatedTextureFrameNumVar" "$frame"
+//    "animatedTextureFrameRate" ".1"
+//  }
+// }
+
+//list of diagrams... 
+// 001...2a upper left speaker
+// 002...2b upper right speaker
+// 003...2c speakers off
+// 004...4a upper left speaker
+// 005...4b upper right speaker
+// 006...4c lower left speaker
+// 007...4d lower right speaker
+// 008...4e speakers off
+// 009...51a upper left speaker
+// 010...51b upper mid speaker
+// 011...51c upper right speaker
+// 012...51d lower left speaker
+// 013...51e lower right speaker
+// 014...51f center subwoofer
+// 015...51g speakers off
+
+}

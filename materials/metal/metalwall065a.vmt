@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "Metal/metalwall065a"
+	"%keywords" "c17industrial"
+	"$surfaceprop" "metal"
+	"$bumpmap" "Metal/metalwall065a_normal"
+}

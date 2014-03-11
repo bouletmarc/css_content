@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_nuke\nukwindowd"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_nuke\nukwindowd_ref"
+	"$surfaceprop" "glass"
+
+}

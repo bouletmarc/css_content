@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_signex9"
+	"$surfaceprop" "glass"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "de_piranesi/pi_signbig_spec"
+}
+

@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/scoreboard_nemesis-dead"
+	"$translucent" 1
+}

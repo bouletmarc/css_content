@@ -1,0 +1,5 @@
+"unlitGeneric"
+{
+	"$baseTexture" "cs_italy/yellow"
+	"$detail" "detail/dt_smooth1"
+}

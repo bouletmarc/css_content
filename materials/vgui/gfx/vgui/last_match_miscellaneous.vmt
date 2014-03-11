@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/gfx/VGUI/last_match_miscellaneous"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

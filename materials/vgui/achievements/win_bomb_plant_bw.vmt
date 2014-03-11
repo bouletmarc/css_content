@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/win_bomb_plant_bw"
+	"$vertexalpha" 1
+}

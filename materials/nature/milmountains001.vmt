@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"nature\milmountains001"
+	"$translucent" 	"1"
+	"%compilepassbullets" 1
+
+}

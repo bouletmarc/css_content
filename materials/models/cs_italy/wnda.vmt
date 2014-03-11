@@ -1,0 +1,9 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_italy/wnda"
+	"$surfaceprop" "rock"
+ 	"$envmap" "env_cubemap"
+	"$envmapmask" "models/cs_italy/wnda_mask"
+	"$envmapcontrast" "1"
+	"$envmaptint" "[1 1 1]"
+}

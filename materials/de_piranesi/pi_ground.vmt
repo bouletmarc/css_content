@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_ground"
+	"$surfaceprop" "dirt"
+	"$detail" "detail/dt_grass1"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/glow"
+	"$additive" 1
+	"$vertexalpha" 1
+}

@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"wood\offdrasd"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "wood\offdrasd_ref"
+	"$surfaceprop" "wood"
+
+}

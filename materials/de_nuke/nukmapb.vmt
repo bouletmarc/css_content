@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_nuke\nukmapb"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_prodigy\prodmapa_ref"
+	"$surfaceprop" "plastic"
+
+}

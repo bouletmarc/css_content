@@ -1,0 +1,11 @@
+"WorldTwoTextureBlend"
+{
+	"$DETAIL_ALPHA_MASK_BASE_TEXTURE" "1"
+	"$baseTexture" "de_aztec/stn01grm01"
+	"$detail" "de_aztec/carving04"
+	"$detailscale" 4
+//	"$bumpmap" "de_aztec/carving04_normal"
+	"$surfaceprop" "concrete"
+	"%tooltexture" "de_aztec/tooltextures/carving04tool"
+	"%keywords" "cstrike" 
+}

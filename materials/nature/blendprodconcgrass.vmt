@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "concrete/prodroofa"
+	"$basetexture2" "nature/prodgrassa"
+//	"%detailtype" "prodgrasses"
+	"$surfaceprop" "dirt"
+}

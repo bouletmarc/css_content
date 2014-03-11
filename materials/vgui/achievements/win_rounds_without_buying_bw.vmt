@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/win_rounds_without_buying_bw"
+	"$vertexalpha" 1
+}

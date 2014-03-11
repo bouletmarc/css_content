@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/{misc_ironwin"
+	"$translucent" 1
+	"$detail" "detail/dt_metal2"
+	"$surfaceprop" "metal"
+}

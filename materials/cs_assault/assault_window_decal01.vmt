@@ -1,0 +1,8 @@
+"unlitGeneric"
+{
+	"$baseTexture" "cs_assault/assault_window_decal01"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+
+}

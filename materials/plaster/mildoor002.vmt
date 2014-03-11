@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"plaster\mildoor002"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "plaster\milwall006_ref"
+	"$surfaceprop" "plaster"
+
+}

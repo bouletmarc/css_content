@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/donate_weapons"
+	"$vertexalpha" 1
+}

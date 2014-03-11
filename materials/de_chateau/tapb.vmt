@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/tapb"
+	"$surfaceprop" "carpet"
+	"$detail" "detail/dt_fabric2"
+	"$detailscale" "16"
+	"%keywords" "cstrike"
+}

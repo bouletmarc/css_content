@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_oldwindows_02"
+	"$bumpmap" "de_train\train_oldwindows_02_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "glass"
+
+}

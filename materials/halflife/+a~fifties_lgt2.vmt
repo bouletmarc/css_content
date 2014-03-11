@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmapSelfIllum
+	"$basetexture" "halflife/+a~fifties_lgt2"
+	"$surfaceprop" "glass"
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"toggletexturevar" "$basetexture"
+			"toggletextureframenumvar" "$frame"
+		}
+	}
+}

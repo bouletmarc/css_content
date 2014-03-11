@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_cbble/grounddirt"
+	"$surfaceprop" "dirt"
+	"$bumpmap2" "de_cbble/grounddirt_normal"
+	"%keywords" "cstrike"
+}

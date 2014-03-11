@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "wood/woodwall009a"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmapmask" "wood/woodwall009a_spec"
+	"%keywords" "cstrike" 
+}

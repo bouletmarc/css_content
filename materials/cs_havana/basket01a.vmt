@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/de_dust/basket01a"
+	"$surfaceprop" "wood"
+}

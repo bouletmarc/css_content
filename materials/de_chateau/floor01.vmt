@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/floor01"
+	"$surfaceprop" "wood"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "de_chateau/floor01_spec"
+	"%keywords" "cstrike"
+}

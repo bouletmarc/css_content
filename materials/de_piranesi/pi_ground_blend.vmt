@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "de_piranesi/pi_ground"
+	"$baseTexture2" "de_piranesi/pi_groundw"
+	"$surfaceprop" "dirt"
+	"%keywords" "cstrike" 
+}

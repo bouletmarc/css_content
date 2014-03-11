@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$additive" 1
+	"$basetexture" "decals/slide"
+
+ "Proxies"
+ {
+  "AnimatedTexture"
+  {
+    "animatedTextureVar" "$basetexture"
+    "animatedTextureFrameNumVar" "$frame"
+    "animatedTextureFrameRate" ".1"
+  }
+ }
+}

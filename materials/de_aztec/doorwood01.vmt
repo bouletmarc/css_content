@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_aztec/doorwood01"
+	"$surfaceprop" "wood"
+	"%keywords" "cstrike" 
+//	"$bumpmap"	"de_aztec/doorwood01_normal"
+}

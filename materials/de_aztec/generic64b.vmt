@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_aztec/generic64b"
+	"$detail" "detail/dt_metal1"
+	"$surfaceprop" "metal"
+}

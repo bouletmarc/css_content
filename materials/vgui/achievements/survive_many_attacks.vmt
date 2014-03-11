@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/survive_many_attacks"
+	"$vertexalpha" 1
+}

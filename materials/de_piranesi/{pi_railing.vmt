@@ -1,0 +1,8 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/{pi_railing"
+	"$translucent" 1
+	"$surfaceprop" "metal"
+	"$detail" "detail/dt_metal1"
+	"$alphatest" 1
+}

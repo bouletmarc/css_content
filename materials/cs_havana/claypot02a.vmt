@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/de_dust/claypot02a"
+	"$surfaceprop" "plaster"
+}

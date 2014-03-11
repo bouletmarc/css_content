@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/sandfloor009b"
+	"$basetexture2" "nature/sandfloor009a"
+
+	"$detail" "overlays/macro01a"
+	"$detailscale" .1
+
+	"%detailtype" "desert_2weeds1shrub_01"
+
+	"%tooltexture" "nature/blendsandsand008b_tooltexture"
+	
+        "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+	"$surfaceprop" "sand"
+	"$surfaceprop2" "sand"
+}
+

@@ -1,0 +1,10 @@
+"WorldTwoTextureBlend"
+{
+	"$DETAIL_ALPHA_MASK_BASE_TEXTURE" "1"
+	"$baseTexture" "de_aztec/stn01grm03"
+	"$detail" "de_aztec/stair01sd"
+	"$detailscale" 2
+	"$surfaceprop" "concrete"
+	"%tooltexture" "de_aztec/tooltextures/stair01sdgrm03tool"
+	"%keywords" "cstrike" 
+}

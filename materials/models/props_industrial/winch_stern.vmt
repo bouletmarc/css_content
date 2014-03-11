@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_industrial/winch_stern"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	"$bumpmap" "Models/props_industrial/winch_stern_normal"
+	//"$alphatest" 1
+
+	
+}

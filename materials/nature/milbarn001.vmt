@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nature/milbarn001"
+	"$translucent" "1"
+	"$surfaceprop" "no_decal"
+}

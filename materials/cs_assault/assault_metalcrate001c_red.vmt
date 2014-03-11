@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "cs_assault/assault_metalcrate001c_red"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/CastFlt"
+	"$detail" "detail/dt_stone1"
+	"$surfaceprop" "rock"
+}

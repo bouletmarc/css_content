@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"metal\prodgratea"
+	"$alphatest" "1"
+	"$surfaceprop" "metal"
+
+}

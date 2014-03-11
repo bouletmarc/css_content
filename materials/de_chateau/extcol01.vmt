@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/extcol01"
+	"$surfaceprop" "concrete"
+//	"$bumpmap" "de_chateau/extcol01_normal"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "de_chateau/extcol01_spec"
+	"%keywords" "cstrike"
+}

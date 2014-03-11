@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_italy/entarch2"
+	"$surfaceprop" "concrete"
+//	"$bumpmap" "models/cs_italy/entarch2_normal"
+}

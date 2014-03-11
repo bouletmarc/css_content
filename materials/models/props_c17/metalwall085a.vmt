@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Metal/metalwall085a"
+	"$surfaceprop" "metal"
+
+}

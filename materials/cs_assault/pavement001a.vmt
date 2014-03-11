@@ -1,0 +1,12 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_assault/pavement001a"
+	"$bumpmap" "cs_assault/pavement001_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .35 .35 .35 ]"
+	"%keywords" "dod,hl2"
+	"$surfaceprop" "concrete"
+}

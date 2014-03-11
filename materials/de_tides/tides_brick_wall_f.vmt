@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_tides\tides_brick_wall_f"
+	"$selfillum" "1"
+	"$surfaceprop" "concrete"
+
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\offaddress"
+	"$translucent" "1"
+	"$nocull" "1"
+
+}

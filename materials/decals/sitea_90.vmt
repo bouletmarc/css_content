@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\sitea_90"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "1.000"
+
+}

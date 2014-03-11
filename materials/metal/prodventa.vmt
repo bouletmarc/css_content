@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"metal\prodventa"
+	"$surfaceprop" "panel"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "metal\prodventa_normal"
+	"$normalmapalphaenvmapmask" "1"
+
+}

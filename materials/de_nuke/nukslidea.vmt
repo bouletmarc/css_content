@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_nuke\nukslidea"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_nuke\nukslidea_ref"
+	"$surfaceprop" "metal"
+
+}

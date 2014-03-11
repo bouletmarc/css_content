@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/de_dust/objects/stoneblocks48"
+	"$surfaceprop" "rock"
+//	"$bumpmap" "models/de_dust/objects/stoneblocks48_normal"
+}

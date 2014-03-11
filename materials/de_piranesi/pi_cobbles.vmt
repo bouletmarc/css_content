@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_cobbles"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_piranesi/pi_cobbles_normal"
+	"%keywords" "cstrike" 
+}

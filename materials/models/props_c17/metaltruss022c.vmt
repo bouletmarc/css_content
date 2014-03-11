@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Metal/metaltruss022c"
+	"$surfaceprop" "metal"
+
+}

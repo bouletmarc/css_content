@@ -1,0 +1,7 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_trainstation/lobby_fixtures002a"
+	"$surfaceprop" "metal"
+}

@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "de_nuke\nukfloorc"
+	"$basetexture2" "nature/prodgrassa"
+	"%detailtype" "prodgrasses"
+	"$surfaceprop" "dirt"
+}

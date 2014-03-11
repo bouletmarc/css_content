@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_piranesi/sundial"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "models/de_piranesi/sundial_spec"
+}

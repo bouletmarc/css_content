@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_havana/pillar_b"
+	"$surfaceprop" "concrete"
+	"%keywords" "cstrike"
+}

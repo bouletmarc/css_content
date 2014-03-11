@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/stonewall01b"
+	"%keywords" "cstrike" 
+	"$surfaceprop" "brick"
+	"$bumpmap" "cs_italy/stonewall01b_normal"
+}

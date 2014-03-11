@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/milground012"
+	"$basetexture2" "concrete/concretefloor018a"
+	"%tooltexture" "nature/milground012_conflr18a_tooltexture"
+	//"%detailtype" "compound_gravelgrass"
+	"$surfaceprop" "dirt"
+}

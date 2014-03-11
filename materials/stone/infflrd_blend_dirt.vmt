@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$basetexture"	"stone\infflrd"
+	"$basetexture2" "de_train/train_dirt_floor_01"
+	"$surfaceprop" "rock"
+
+}

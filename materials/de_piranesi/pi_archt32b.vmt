@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_archt32b"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_piranesi/pi_archt32b_normal"
+}

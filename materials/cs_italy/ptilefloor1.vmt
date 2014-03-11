@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/ptilefloor1"
+	"$surfaceprop" "tile"
+	"$bumpmap" "cs_italy/ptilefloor1_normal"
+}

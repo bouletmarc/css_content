@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	"$basetexture"	"decals\offexitlightns"
+	"$additive" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+
+}

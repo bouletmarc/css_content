@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/cuwllg"
+	"$detail" "detail/dt_plaster2"
+	"$surfaceprop" "plaster"
+}

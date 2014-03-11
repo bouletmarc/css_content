@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_blinds_04_illum"
+	"$selfillum" "1"
+	"$surfaceprop" "metalvent"
+
+}

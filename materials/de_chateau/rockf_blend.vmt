@@ -1,0 +1,7 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "de_chateau/rockf"
+	"$baseTexture2" "de_chateau/groundd"
+	"$surfaceprop" "rock"
+	"%keywords" "cstrike" 
+}

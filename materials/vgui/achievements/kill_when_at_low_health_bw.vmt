@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/kill_when_at_low_health_bw"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "cs_militia/dirtfloor02"
+	"$basetexture2" "cs_militia/dirtfloor01"
+	"$surfaceprop" "dirt"
+
+//	"$bumpmap" "cs_militia/dirtfloor02_normal"
+//	"$bumpmap2" "cs_militia/dirtfloor01_normal"
+	"%keywords" "cstrike" 
+}

@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_chateau/ch_arch_b1"
+	"$surfaceprop" "rock"
+}

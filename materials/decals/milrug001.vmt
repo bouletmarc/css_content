@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "decals/milrug001"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250000"
+	"$surfaceprop" "carpet"
+}

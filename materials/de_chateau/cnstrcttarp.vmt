@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/cnstrcttarp"
+	"$surfaceprop" "plastic"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "de_chateau/cnstrcttarp_spec"
+	"%keywords" "cstrike"
+}

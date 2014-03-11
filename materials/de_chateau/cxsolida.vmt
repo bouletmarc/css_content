@@ -1,0 +1,5 @@
+"unlitGeneric"
+{
+	"$baseTexture" "de_chateau/cxsolida"
+	"$detail" "detail/dt_smooth1"
+}

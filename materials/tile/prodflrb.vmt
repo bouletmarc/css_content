@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"tile\prodflrb"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "tile\prodflrb_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "tile"
+
+}

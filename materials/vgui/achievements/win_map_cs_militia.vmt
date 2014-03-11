@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/win_map_cs_militia"
+	"$vertexalpha" 1
+}

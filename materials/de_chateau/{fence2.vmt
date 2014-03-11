@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/{fence2"
+	"$translucent" 1
+	"$detail" "detail/dt_metal1"
+}

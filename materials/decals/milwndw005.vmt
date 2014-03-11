@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\milwndw005"
+	"$translucent" 	"1"
+	"$decal" 	"1"
+	"$decalscale" 	"0.250"
+      	"$envmap" 	"environment maps\cs_militia"
+	"$hdrenvmap"	"environment maps/cs_militia_hdr"
+	"$envmapmask" 	"decals\milwndw005_ref"
+        "$envmaptint" "[1 1 1]" 
+        "lightmappedgeneric_HDR_dx9" 
+        { 
+                "$envmaptint" "[.25 .25 .25]" 
+
+        } 
+}

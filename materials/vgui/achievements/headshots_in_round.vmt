@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/headshots_in_round"
+	"$vertexalpha" 1
+}

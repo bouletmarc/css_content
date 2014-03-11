@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_industrial/bridge_deck"
+	//"$envmap" "env_cubemap"
+	//"$basealphaenvmapmask" 1
+	
+}

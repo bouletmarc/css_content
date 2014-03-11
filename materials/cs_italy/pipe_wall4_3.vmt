@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/pipe_wall4_3"
+	"$detail" "detail/dt_stone1"
+	"$surfaceprop" "metal"
+}

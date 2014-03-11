@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"brick\infwndwa_off"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "brick\infwndwa_ref"
+	"$surfaceprop" "brick"
+
+}

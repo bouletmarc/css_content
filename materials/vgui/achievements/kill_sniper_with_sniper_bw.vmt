@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/kill_sniper_with_sniper_bw"
+	"$vertexalpha" 1
+}

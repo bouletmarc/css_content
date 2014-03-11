@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "overlays/rda01stain"
+	"$translucent" 1
+	"$decal" 1
+	"$surfaceprop" "concrete"
+	"%keywords" "cstrike"
+}

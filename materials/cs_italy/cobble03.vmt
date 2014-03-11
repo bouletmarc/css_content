@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/cobble03"
+	"%keywords" "cstrike"
+	"$surfaceprop" "brick"
+	"$bumpmap" "cs_italy/cobble03_normal"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" 1
+}

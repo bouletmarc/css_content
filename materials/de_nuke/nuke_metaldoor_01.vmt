@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_nuke\nuke_metaldoor_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_nuke\nuke_metaldoor_01_ref"
+	"$surfaceprop" "metal"
+
+}

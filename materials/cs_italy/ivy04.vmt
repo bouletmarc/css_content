@@ -1,0 +1,12 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/ivy04"
+	"$translucent" 1
+	"$surfaceprop" "paper"
+	"%keywords" "cstrike"
+
+//	"LightmappedGeneric_DX9"
+//	{
+//		"$bumpmap" "cs_italy/ivy04_normal"
+//	}
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/freeze_dominated"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

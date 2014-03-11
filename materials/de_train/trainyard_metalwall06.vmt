@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\trainyard_metalwall06"
+	"$bumpmap" "de_train\trainyard_metalwall06_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "metalvent"
+
+}

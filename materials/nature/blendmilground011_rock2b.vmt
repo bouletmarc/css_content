@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" 			"nature/milrock002b"
+	"$basetexture2" 		"nature/milground011"
+	//"$bumpmap" 			"nature/milrock002b_normal"
+	//"$envmap"			"env_cubemap"
+	//"$normalmapalphaenvmapmask"	"1"
+	"%tooltexture" 			"nature/milground011_rock2b_tooltexture"
+	"$surfaceprop" 			"rock"
+
+}

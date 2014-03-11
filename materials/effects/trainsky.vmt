@@ -1,0 +1,7 @@
+UnlitGeneric
+{
+	"$basetexture"	"effects\trainsky"
+	"$additive" "1"
+	"$nocull" "1"
+
+}

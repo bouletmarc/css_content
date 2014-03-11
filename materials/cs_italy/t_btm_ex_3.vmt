@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/T_btm_ex_3"
+	"$detail" "detail/dt_stone1"
+	"$surfaceprop" "rock"
+}

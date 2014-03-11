@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/grenade_multikill"
+	"$vertexalpha" 1
+}

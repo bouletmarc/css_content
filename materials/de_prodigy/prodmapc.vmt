@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_prodigy\prodmapc"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_prodigy\prodmapa_ref"
+	"$surfaceprop" "plastic"
+
+}

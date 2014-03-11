@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_italy/it_logs"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

@@ -1,0 +1,11 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_aztec/road01"
+	"$surfaceprop" "rock"
+	"%keywords" "cstrike"
+//	"$bumpmap" "de_aztec/fullspec_normal"
+//	"$bumpmap" "de_aztec/road01_normal"
+//	"$envmap" "env_cubemap"
+//	"$envmaptint" "[ .75 .75 .75]"
+//	"$envmapcontrast" "1"
+}

@@ -1,0 +1,40 @@
+"WorldVertexTransition"
+{
+ "$baseTexture" "de_aztec/swampground01a"
+ "$basetexture2" "de_aztec/swampdirt01"
+
+ $normalmapalphaenvmapmask 1
+ 
+// "$basealphaenvmapmask" "1"
+// "$envmap" "environment maps/borealis_003"
+// "$envmapsaturation" "[.0001 .0001 .0001]"
+// "$envmaptint" "[ 0.6 0.6 0.75]"
+// "$envmapcontrast" ".01"
+
+ "$envmap" "env_cubemap"
+ "$envmaptint" "[ .81 .81 .81]"
+ "$envmapcontrast" "1"
+ "$bumpmap" "de_aztec/swampground01a_normal"
+ "$bumpmap2" "de_aztec/swampdirt01_normal"
+ 
+ "%keywords" "cstrike" 
+ "%tooltexture" "de_aztec/tooltextures/swampground_blendtool"
+ "$surfaceprop" "dirt"
+ "$surfaceprop2" "mud"
+}
+
+//"WorldVertexTransition"
+//{
+//	"$basetexture" "nature/mudfloor005a"
+//	"$basetexture2" "nature/dirtfloor012b"
+//	"%tooltexture" "nature/dirtfloor012b"
+//	"%keywords" "wasteland"
+//	"$surfaceprop" "mud"
+//	"$bumpmap" "nature/mudfloor005a_normal"
+//	"$normalmapalphaenvmapmask" 1
+//	"$envmapcontrast" 1
+//	"$envmapsaturation" 1
+//	"$envmaptint" "[ .75 .75 .75]"
+//	"$envmap" "env_cubemap"
+//	"$bumpbasetexture2withbumpmap" "0"
+//}

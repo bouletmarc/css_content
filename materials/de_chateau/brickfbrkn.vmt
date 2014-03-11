@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/brickfbrkn"
+	"$surfaceprop" "brick"
+	"$bumpmap" "de_chateau/brickfbrkn_normal"
+	"%keywords" "cstrike"
+}

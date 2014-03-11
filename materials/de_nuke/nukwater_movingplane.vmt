@@ -1,0 +1,43 @@
+"LightmappedGeneric"
+{
+	"LightmappedGeneric_DX6"
+	{
+		"$fallbackmaterial" "de_nuke/nukwater_movingplane_dx70"
+	}
+
+	"$basetexture" "dev/water_moving"
+	"$bumpmap" "dev/water_normal"
+//	"$selfillum" "1"
+//	"$translucent" "1"
+	"$additive" "1"
+	"$surfaceprop" "water"
+	"$envmap" "env_cubemap"
+//	"$envmaptint" "[1 .9 .8]"
+//	"$envmapcontrast" "1"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$bottommaterial" "de_nuke/nukwater_movingplane_beneath"
+	"$normalmapalphaenvmapmask" 1
+	"$fogenable" 1
+	"$fogcolor" "{150 200 200}"
+	"$fogstart" 64.00
+	"$fogend" 512.00
+	
+	"$bumpframe" 0	// Needed for dx7 
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 21.00
+		}
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$bumpmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 21.00
+		}
+	}
+}

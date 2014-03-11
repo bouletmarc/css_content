@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/kill_enemy_m3"
+	"$vertexalpha" 1
+}

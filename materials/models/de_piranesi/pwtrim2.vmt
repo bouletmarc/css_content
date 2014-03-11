@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_piranesi/pwtrim2"
+	"$surfaceprop" "rock"
+}

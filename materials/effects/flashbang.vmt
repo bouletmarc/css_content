@@ -1,0 +1,18 @@
+"UnlitGeneric"
+{
+   "$additive" 1
+   "$basetexture" "_rt_FullFrameFB"
+   $gammacolorread 1
+   $linearwrite 1
+
+	"UnlitGeneric_DX6"
+	{
+	   "$basetexture" "vgui\white"
+	}
+
+	"UnlitGeneric_DX7"
+	{
+	   "$basetexture" "vgui\white"
+	}
+}
+

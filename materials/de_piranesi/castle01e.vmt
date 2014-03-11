@@ -1,0 +1,10 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/castle01e"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_piranesi/castle01e_normal"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"%keywords" "cstrike" 
+}

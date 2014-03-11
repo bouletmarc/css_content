@@ -1,0 +1,6 @@
+"unlitGeneric"
+{
+	"$baseTexture" "models/cs_italy/lamp_street-2a"
+	"$model" 1
+	"$surfaceprop" "metal"
+}

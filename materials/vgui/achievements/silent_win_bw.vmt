@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/silent_win_bw"
+	"$vertexalpha" 1
+}

@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_havana/wndg"
+	"$surfaceprop" "wood"
+	"%keywords" "cstrike"
+}

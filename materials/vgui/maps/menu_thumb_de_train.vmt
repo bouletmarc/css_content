@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/maps/menu_thumb_de_train"
+	"$translucent" 1
+}

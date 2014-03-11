@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/picrate2"
+	"$bumpmap" "cs_italy/picrate2_normal"
+	"$surfaceprop" "wood"
+}

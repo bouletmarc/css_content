@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_piranesi/orrery"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "models/de_piranesi/orrery_spec"
+}

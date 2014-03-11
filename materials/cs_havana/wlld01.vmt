@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_havana/wlld01"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "cs_havana/wlld01_normal"
+	"%keywords" "cstrike"
+}

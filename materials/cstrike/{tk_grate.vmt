@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cstrike/{tk_grate"
+	"$translucent" 1
+	"$surfaceprop" "metal"
+}

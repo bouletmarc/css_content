@@ -1,0 +1,6 @@
+"UnLitGeneric"
+{
+	"$basetexture" "Models/props_c17/floodlightbulboff"
+	"$surfaceprop" "metal"
+	"$model" 1
+}

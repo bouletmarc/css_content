@@ -1,0 +1,7 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_havana/pole_a"
+	"$selfillum" 1
+	"$surfaceprop" "wood"
+	"%keywords" "cstrike"
+}

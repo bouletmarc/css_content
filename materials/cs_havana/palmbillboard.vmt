@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/de_dust/objects/palmbillboard"
+	"$surfaceprop" "wood"
+	"$alphatest" 1
+}

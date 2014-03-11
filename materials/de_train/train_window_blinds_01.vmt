@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_window_blinds_01"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_train\train_window_blinds_01_ref"
+	"$surfaceprop" "glass"
+
+}

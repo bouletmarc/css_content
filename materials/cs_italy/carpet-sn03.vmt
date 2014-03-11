@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/carpet-sn03"
+	"$detail" "detail/dt_carpet1"
+	"$surfaceprop" "carpet"
+}

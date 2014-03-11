@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/rockwall012a"
+	"$basetexture2" "nature/dirtfloor009c"
+	"%tooltexture" "nature/blendrockmoss002a_tooltexture"
+	"%keywords" "wasteland"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "Nature/rockwall012a_normal"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ .5 .5 .5]"
+	"$envmap" "env_cubemap"
+	"$bumpbasetexture2withbumpmap" "1"
+}

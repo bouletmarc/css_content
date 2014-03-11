@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/kill_hostage_rescuer_bw"
+	"$vertexalpha" 1
+}

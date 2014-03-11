@@ -1,0 +1,18 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "de_aztec/ground01grass"
+	"$basetexture2" "nature/dirtfloor012a"
+
+	$normalmapalphaenvmapmask 1
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .81 .81 .81]"
+	"$envmapcontrast" "1"
+
+	"%tooltexture" "de_aztec/tooltextures/ground01_blendtool"
+	"$surfaceprop" "dirt"
+
+	"$bumpmap" "de_aztec/ground01grass_normal"
+	"$bumpmap2" "de_aztec/dirtfloor012a_normal"
+	"%keywords" "cstrike" 
+}

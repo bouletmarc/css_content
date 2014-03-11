@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_nuke\nukmetwallo"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "de_nuke\nukmetwallo_ref"
+	"$surfaceprop" "stone"
+
+}

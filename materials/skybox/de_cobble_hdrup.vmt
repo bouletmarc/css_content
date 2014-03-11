@@ -1,0 +1,7 @@
+"sky"
+{
+	"$hdrbaseTexture" "skybox/de_cobble_hdrup"
+	"$basetexture" "skybox/de_cobbleup"
+	"$nofog" 1
+	$ignorez 1
+}

@@ -1,0 +1,24 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Stone/stonefloor003a"
+                "$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+//	"$basetexture2" "Concrete/concretefloor005a"
+//	"$basetexture2" "concrete\concretefloor024a"
+//	"$basetexture2" "concrete\concretefloor038b"
+	"$basetexture2" "de_nuke\nukfloorc"
+
+                "$basetexturetransform2" "center .5 .5 scale .125 .125 rotate 0 translate 0 0"
+	"$bumpmap" "stone/stonefloor003a_normal"
+	"$surfaceprop" "concrete"
+//	"$envmap" "env_cubemap"
+//	"$normalmapalphaenvmapmask" 1
+	"$blendmodulatetexture" "stone/stonefloor003a_blend"
+//	"$basealphaenvmapmask" "1"
+//	"$envmapsaturation" 1
+//	"$envmapcontrast" 1
+//	"$nodecal" "1"
+
+
+}
+
+

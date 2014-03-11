@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_dust/barrel_exp03"
+	"$surfaceprop" "metal"
+}

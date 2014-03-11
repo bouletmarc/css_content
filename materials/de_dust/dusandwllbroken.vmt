@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_dust/dusandwllbroken"
+	"$surfaceprop" "concrete"
+//	"$bumpmap" "de_dust/dusandwllbroken_normal"
+//	"$detail" "detail/dt_stone1" 
+}

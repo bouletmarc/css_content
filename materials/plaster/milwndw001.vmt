@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	"$basetexture"	"plaster\milwndw001"
+	"$selfillum" 	"1"
+	"$envmap" 	"env_cubemap"
+	"$envmapmask" 	"plaster\milwndw001_ref"
+	"$surfaceprop" 	"glass"
+        "$envmaptint" "[1 1 1]" 
+        "lightmappedgeneric_HDR_dx9" 
+        { 
+                "$envmaptint" "[.25 .25 .25]" 
+        } 
+}

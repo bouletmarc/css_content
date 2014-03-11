@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "HUD/win_panel_mvpstar"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

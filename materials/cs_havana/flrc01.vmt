@@ -1,0 +1,11 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_havana/flrc01"
+	"$surfaceprop" "tile"
+	"$bumpmap" "cs_havana/flrc01_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"%keywords" "cstrike"
+}

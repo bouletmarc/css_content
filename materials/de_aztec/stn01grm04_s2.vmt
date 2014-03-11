@@ -1,0 +1,11 @@
+"WorldTwoTextureBlend"
+{
+	"$DETAIL_ALPHA_MASK_BASE_TEXTURE" "1"
+	"$baseTexture" "de_aztec/stn01grm04"
+	"$detail" "de_aztec/stonework01"
+	"$detailscale" 8
+	"$surfaceprop" "concrete"
+//	"$bumpmap" "de_aztec/stonework01_normal"
+	"%tooltexture" "de_aztec/tooltextures/stn01grm04tool"
+	"%keywords" "cstrike" 
+}

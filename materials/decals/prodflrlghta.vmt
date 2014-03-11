@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\prodflrlghta"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "decals\prodflrlghta_ref"
+	"$surfaceprop" "glass"
+
+}

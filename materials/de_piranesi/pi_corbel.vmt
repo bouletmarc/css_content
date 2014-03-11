@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_corbel"
+	"$surfaceprop" "rock"
+	"$detail" "detail/dt_stone1"
+}

@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "sprites\obj_icons\c4"
+	"$translucent"	"1"
+	"$ignorez"	"1"
+}

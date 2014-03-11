@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_cbble/telepole01"
+	"$surfaceprop" "wood"
+	"$bumpmap" "de_cbble/telepole01_normal"
+	"%keywords" "cstrike"
+}

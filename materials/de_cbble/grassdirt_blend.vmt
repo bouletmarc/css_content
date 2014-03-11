@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$baseTexture" "de_cbble/grassfloor01"
+	"$basetexture2" "de_cbble/grounddirt"
+	"$surfaceprop" "dirt"
+	"$bumpmap" "de_cbble/grassfloor01_normal"
+	"$bumpmap2" "de_cbble/grounddirt_normal"
+	"%keywords" "cstrike" 
+}

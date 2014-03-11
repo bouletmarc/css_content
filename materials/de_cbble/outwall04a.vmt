@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_cbble/outwall04a"
+	"$surfaceprop" "rock"
+	"$bumpmap" "de_cbble/outwall04a_normal"
+	"%keywords" "cstrike"
+}

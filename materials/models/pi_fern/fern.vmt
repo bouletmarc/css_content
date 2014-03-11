@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/pi_fern/fern"
+	"$translucent" 1
+	"$model" 1
+	"$alphatest" 1
+}

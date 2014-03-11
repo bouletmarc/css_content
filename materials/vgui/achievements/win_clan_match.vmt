@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/win_clan_match"
+	"$vertexalpha" 1
+}

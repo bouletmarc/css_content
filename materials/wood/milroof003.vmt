@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	"$basetexture"	"wood\milroof003"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$alphatest" "1"
+	"$surfaceprop" "wood_plank"
+
+}

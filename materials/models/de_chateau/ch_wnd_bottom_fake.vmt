@@ -1,0 +1,8 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_chateau/ch_wnd_bottom_fake"
+	"$surfaceprop" "rock"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "models/de_chateau/ch_wnd_bottom_fake_spec"
+}

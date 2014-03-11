@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_track_decal_a2"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+
+}

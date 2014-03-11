@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_oldwindows_01"
+	"$selfillum" "1"
+	"$surfaceprop" "glass"
+
+}

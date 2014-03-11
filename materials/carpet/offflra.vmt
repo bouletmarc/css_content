@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"carpet\offflra"
+	"$surfaceprop" "carpet"
+	"$detail" "detail/dt_carpet1"
+	"$detailscale" "12"
+}

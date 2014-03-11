@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_map_decal_01"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$surfaceprop" "wood"
+
+}

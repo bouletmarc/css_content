@@ -1,0 +1,11 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_havana/door04"
+	"$surfaceprop" "wood"
+	"$bumpmap" "cs_havana/door04_normal"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"%keywords" "cstrike"
+}

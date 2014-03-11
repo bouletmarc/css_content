@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\offpaintinga"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.250"
+	"$envmap" "environment maps\cs_office"
+	"$envmapmask" "decals\offpaintinga_ref"
+
+}

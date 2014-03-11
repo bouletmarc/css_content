@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/crown-mld1"
+	"$detail" "detail/dt_stone1"
+	"$surfaceprop" "concrete"
+}

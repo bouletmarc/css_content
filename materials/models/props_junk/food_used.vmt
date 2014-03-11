@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_junk/food_used"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "Models/props_junk/food_used_ref"
+}
+

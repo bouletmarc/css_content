@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "nature/milrock001"
+	"$basetexture2" "nature/milground002"
+	//"%tooltexture" "nature/milrock001_ground002_tooltexture"
+	//"%detailtype" "compound_gravelgrass"
+	"$surfaceprop" "rock"
+
+}

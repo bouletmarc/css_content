@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "sprites\water_drop"
+	"$translucent" 1
+	"alpha" 1
+}
+

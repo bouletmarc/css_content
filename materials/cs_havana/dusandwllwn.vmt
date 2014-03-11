@@ -1,0 +1,8 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/de_dust/dusandwllwn"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "models/de_dust/dusandwllwnr"
+	"$envmaptint" "[ 0.3 0.6 0.4 ]"
+	"$surfaceprop" "rock"
+}

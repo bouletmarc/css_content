@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_office/filebox01file"
+	"$surfaceprop" "paper"
+	"$translucent" 1
+	"%keywords" "cstrike" 
+}

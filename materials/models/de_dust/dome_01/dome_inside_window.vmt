@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$model" "1"
+	"$baseTexture" "models/de_dust/dome_01/dome_inside_window"
+	"$surfaceprop" "rock"
+//	"$bumpmap" "models/de_dust/dome_01/dome_inside_window_normal"
+}

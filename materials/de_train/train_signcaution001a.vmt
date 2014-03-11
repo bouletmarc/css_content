@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	"$basetexture"	"de_train\train_signcaution001a"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.150"
+
+}

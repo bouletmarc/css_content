@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/cellarfloor01"
+	"%keywords" "cstrike"
+	"$bumpmap" "cs_italy/cellarfloor01_normal"
+	"$surfaceprop" "Dirt"
+}

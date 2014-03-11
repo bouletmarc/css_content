@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "cs_assault/assault_skybox_building03"
+	"$translucent" 1
+}

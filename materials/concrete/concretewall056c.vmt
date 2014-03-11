@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Concrete/concretewall056c"
+	"$surfaceprop" "concrete"
+	"%keywords" "c17sewers,wasteland"
+}

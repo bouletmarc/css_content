@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$alphatest" 1
+//	"$translucent" 1
+	"$basetexture" "Models/props_industrial/warehouse_shelves"
+}

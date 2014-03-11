@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/win_pistolrounds_high"
+	"$vertexalpha" 1
+}

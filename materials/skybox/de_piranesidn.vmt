@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "skybox/de_piranesidn"
+	"$nofog" 1
+	$ignorez 1
+}

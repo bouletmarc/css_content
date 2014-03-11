@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "Models/props_c17/pottery01a_09a"
+	"$nocull" 1
+	"$basealphaenvmapmask" "Models/props_c17/pottery01a_09a"
+}

@@ -1,0 +1,7 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_piranesi/pi_rug4"
+	"$surfaceprop" "dirt"
+	"$detail" "detail/dt_carpet1"
+	"$detailscale" "12"
+}

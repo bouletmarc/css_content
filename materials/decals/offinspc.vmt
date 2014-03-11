@@ -1,0 +1,11 @@
+LightmappedGeneric
+{
+	"$basetexture"	"decals\offinspc"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.2"
+	"$envmap" "environment maps\cs_office"
+	"$envmapmask" "decals\offinspc_ref"
+	"$surfaceprop" "glass"
+
+}

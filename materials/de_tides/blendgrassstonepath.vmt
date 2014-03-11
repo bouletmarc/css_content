@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "de_tides\tides_dirtstonepath"
+	"$basetexture2" "de_tides\tides_grass_A"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 0 translate 0 0"
+        "$basetexturetransform2" "center .5 .5 scale 1 1 rotate 10 translate 0 0"
+//	"%detailtype" "prodgrasses"
+	"$surfaceprop" "dirt"
+	"%keywords" "dirt"
+}

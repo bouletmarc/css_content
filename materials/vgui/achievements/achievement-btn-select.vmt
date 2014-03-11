@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/achievements/achievement-btn-select"
+	"$alphatest" 1
+}

@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "Building_Template/Building_Template013o"
+	"$surfaceprop" "metal"
+	"$model" 1	
+	"$bumpmap" "Models/props_rooftop/railing01a_normal"
+}

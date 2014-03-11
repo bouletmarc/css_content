@@ -1,0 +1,5 @@
+"vertexlitGeneric"
+{
+	"$baseTexture" "models/cs_italy/fruit5"
+	"$surfaceprop" "dirt"
+}

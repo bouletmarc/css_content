@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/maps/menu_thumb_cs_militia"
+	"$translucent" 1
+}

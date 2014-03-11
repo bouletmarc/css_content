@@ -1,0 +1,9 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "de_chateau/brickfwdwb"
+	"$surfaceprop" "brick"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapmask" "de_chateau/brickfwdwb_spec"
+	"%keywords" "cstrike"
+}
